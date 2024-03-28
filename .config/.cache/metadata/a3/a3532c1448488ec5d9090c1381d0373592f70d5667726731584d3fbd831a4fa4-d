@@ -1,0 +1,1 @@
+[{"cell":"example","cellBlocks":[{"blockType":"runnables","cellBlock":"apps","targets":[{"actions":[{"description":"build it","name":"build","requiresArgs":false},{"description":"run it","name":"run","requiresArgs":false}],"description":"An example Rust binary which greets the user","name":"default"}]}]}]
